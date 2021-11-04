@@ -7,6 +7,7 @@
 add_subdirectory(iKartBatteryManager)
 add_subdirectory(iKartSpeedTest)
 add_subdirectory(iKartUtils)
+add_subdirectory(iKartOdometry)
 add_subdirectory(laserUtils)
 #add_subdirectory(iKartWirelessDisplay)
 
